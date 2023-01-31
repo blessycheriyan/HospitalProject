@@ -9,11 +9,19 @@ Able to view the doctors
 
 Users can able to booking the doctors
 
+Languages handled :
+Python
+Django
+Boostrap
+Html
+css
 
 Handled tools:
 Visual studio code
+
 Deployed:
-Python Anywhere
+
+Python Anywhere,
 Railway
 
 Command to run in localhost:
